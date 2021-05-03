@@ -2,7 +2,7 @@
 
 git checkout gh-pages
 git pull origin gh-pages
-git merge master
+git merge master --no-edit
 bundle exec middleman build
 mv -f build docs
 cd docs
