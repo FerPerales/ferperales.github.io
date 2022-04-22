@@ -14,5 +14,4 @@ jobs:
         with:
           REMOTE_BRANCH: gh-pages
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_LOCATION: docs
         uses: yurikoval/middleman-gh-pages-action@master
