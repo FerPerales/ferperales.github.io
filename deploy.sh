@@ -7,8 +7,8 @@ bundle exec middleman build
 rm -rf docs
 mv -f build docs
 cd docs
-cd ../
 echo 'ferperales.net' > CNAME
+cd ../
 git add .
 git commit -m "New release"
 git push origin gh-pages --force
