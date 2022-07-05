@@ -12,5 +12,5 @@ echo 'fer.delm.al' >> CNAME
 cd ../
 git add .
 git commit -m "New release"
-git push origin gh-pages
+git push origin gh-pages --force
 git checkout master
