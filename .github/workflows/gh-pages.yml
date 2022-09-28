@@ -14,4 +14,5 @@ jobs:
         with:
           REMOTE_BRANCH: gh-pages
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        uses: yurikoval/middleman-gh-pages-action@master
+          CNAME_DOMAIN: ferperales.net
+        uses: ferperales/middleman-gh-pages-action@master
