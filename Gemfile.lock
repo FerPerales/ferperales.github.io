@@ -76,6 +76,9 @@ GEM
       toml
       uglifier (~> 3.0)
       webrick
+    middleman-dotenv (2.0.0)
+      dotenv (>= 2.0)
+      middleman-core (>= 4.0)
     middleman-gh-pages (0.4.1)
       rake (> 0.9.3)
     middleman-livereload (3.4.6)
@@ -133,6 +136,7 @@ DEPENDENCIES
   byebug
   kramdown (>= 2.3.0)
   middleman
+  middleman-dotenv
   middleman-gh-pages
   middleman-livereload
   net-ftp
