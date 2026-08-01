@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (6.1.7.6)
+    activesupport (6.1.7.10)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
@@ -19,6 +19,7 @@ GEM
     contracts (0.13.0)
     date (3.3.3)
     dotenv (2.7.6)
+    drb (2.2.3)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -42,6 +43,7 @@ GEM
     listen (3.0.8)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    logger (1.7.0)
     memoist (0.16.2)
     middleman (4.4.2)
       coffee-script (~> 2.2)
@@ -85,7 +87,10 @@ GEM
       em-websocket (~> 0.5.1)
       middleman-core (>= 3.3)
       rack-livereload (~> 0.3.15)
-    minitest (5.19.0)
+    minitest (6.0.6)
+      drb (~> 2.0)
+      prism (~> 1.5)
+    mutex_m (0.3.0)
     net-ftp (0.1.3)
       net-protocol
       time
@@ -98,6 +103,7 @@ GEM
     padrino-support (0.15.1)
     parallel (1.22.1)
     parslet (2.0.0)
+    prism (1.9.0)
     public_suffix (4.0.7)
     rack (2.2.14)
     rack-livereload (0.3.17)
@@ -135,10 +141,12 @@ PLATFORMS
 DEPENDENCIES
   byebug
   kramdown (>= 2.3.0)
+  logger
   middleman
   middleman-dotenv
   middleman-gh-pages
   middleman-livereload
+  mutex_m
   net-ftp
   rack (>= 2.1.4)
   redcarpet
@@ -147,7 +155,7 @@ DEPENDENCIES
   wdm (~> 0.1.0)
 
 RUBY VERSION
-   ruby 3.3.5p100
+   ruby 4.0.6p0
 
 BUNDLED WITH
    2.5.16
