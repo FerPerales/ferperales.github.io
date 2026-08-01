@@ -25,6 +25,7 @@ jobs:
         with:
           node-version: 22
       - run: npm install
+      - run: npm run esbuild
       - run: bundle exec bridgetown build
       - uses: actions/upload-pages-artifact@v3
         with:
