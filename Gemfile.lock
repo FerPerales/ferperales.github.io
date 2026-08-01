@@ -113,7 +113,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     redcarpet (3.5.1)
-    rexml (3.3.9)
+    rexml (3.4.2)
     sassc (2.4.0)
       ffi (~> 1.9)
     servolux (0.13.0)
