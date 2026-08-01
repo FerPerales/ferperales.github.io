@@ -1,5 +1,6 @@
 ---
 title: Work together
+layout: default
 ---
 ## Let's Work together
 

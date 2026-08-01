@@ -1,25 +1,21 @@
-# If you do not have OpenSSL installed, change
-# the following line to use 'http://'
-source 'https://rubygems.org'
-ruby file: '.ruby-version'
+# Gems source:
+source "https://rubygems.org"
+ruby file: ".ruby-version"
 
-# For faster file watcher updates on Windows:
-gem 'wdm', '~> 0.1.0', platforms: [:mswin, :mingw]
+# Git-based sources:
+git_source(:github) { "https://github.com/#{_1}.git" }
+git_source(:codeberg) { "https://codeberg.org/#{_1}.git" }
 
-# Windows does not come with time zone data
-gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
+gem "bridgetown", "2.1.1"
 
-gem 'turbolinks', require: false
-gem 'net-ftp'
-gem 'mutex_m'
-gem 'logger'
+# Bridgetown 2.1.1's CLI is broken against samovar >= 2.4.1 (a NoMethodError in
+# bridgetown-core's command.rb, fixed upstream by Bridgetown pinning samovar
+# exactly in 2.2.x). Pin to the last compatible patch until upgrading Bridgetown.
+gem "samovar", "2.4.0"
 
-# Middleman Gems
-gem 'kramdown', '>= 2.3.0'
-gem 'middleman'
-gem 'middleman-livereload'
-gem 'middleman-gh-pages'
-gem 'middleman-dotenv'
-gem 'redcarpet'
-gem 'byebug'
-gem 'rack', '>= 2.1.4'
+gem "kramdown", ">= 2.3.0"
+
+# Puma is the Rack-compatible web server used by Bridgetown
+gem "puma", "< 8"
+
+gem "byebug"

@@ -1,5 +1,6 @@
 ---
 title: Talks
+layout: default
 ---
 ## Talks
 
@@ -9,7 +10,7 @@ If you want me to give one of these talks or workshops at your conference, compa
 
 **Note:** all talks are shown with its original title according to the language they were given. If you want to see a description in English, you can click on each talk or go to the [list of talks](#list-of-talks) section.
 
-<%= image_tag 'euruko.jpg', alt: 'Presentation at EuRuKo 2024 in Sarajevo, Bosnia and Herzegoniva' %>
+<img src="/images/euruko.jpg" alt="Presentation at EuRuKo 2024 in Sarajevo, Bosnia and Herzegoniva">
 
 
 > Photo: [Nidal Šaljić](https://nidalsaljic.wfolio.pro/disk/euruko/day-2)
@@ -100,7 +101,7 @@ Break from the conference circuit
 * [FSLVallarta 2016](http://fsl.mx), [Prácticas de desarrollo de software de alta calidad](#high-quality-software-practices) in Puerto Vallarta, MX 🇲🇽 ([Slides](https://speakerdeck.com/ferperales/high-quality-software-practices-1))
 * [FSLVallarta 2016](http://fsl.mx/), [Acercando a las nuevas generaciones al Software Libre](#introducing-new-generations-to-free-software) in  Puerto Vallarta, MX 🇲🇽 ([Slides](https://speakerdeck.com/ferperales/introducing-new-generations-to-free-software-1))
 * [Software Gurú NEXT](https://sg.com.mx/sgnext), [¿Qué hacer y que no hacer para un flujo de trabajo exitoso entre programadores y diseñadores](#red-light-green-light-the-dos-and-donts-of-a-successful-dev-design-workflow) in Mexico City, MX 🇲🇽 ([Slides](https://speakerdeck.com/ferperales/como-lograr-un-flujo-de-trabajo-exitoso-entre-programadores-y-disenadores))
-* [Fórum Internacional Software Libre](http://softwarelivre.org/fisl17), [Introducing new generations to Open Source](#introducing-new-generations-to-free-software) in Porto Alegre, BRA 🇧🇷 ([Slides](https://speakerdeck.com/ferperales/introducing-new-generations-to-open-source) \| [Video](https://www.youtube.com/watch?v=KaCPJ5k0j28))
+* [Fórum Internacional Software Livre](http://softwarelivre.org/fisl17), [Introducing new generations to Open Source](#introducing-new-generations-to-free-software) in Porto Alegre, BRA 🇧🇷 ([Slides](https://speakerdeck.com/ferperales/introducing-new-generations-to-open-source) \| [Video](https://www.youtube.com/watch?v=KaCPJ5k0j28))
 * [Campus Party 7](http://mexico.campus-party.org), [Acercando a las nuevas generaciones al Software Libre](#introducing-new-generations-to-free-software) in Zapopan, MX 🇲🇽 ([Slides](https://speakerdeck.com/ferperales/introducing-new-generations-to-free-software) \| [Video](https://www.youtube.com/watch?v=Egxj9j4T1-U))
 * [DrupalCamp Guadalajara](http://www.drupalcampgdl.com/), [Luz roja, luz verde: qué hacer y qué no hacer para un flujo de trabajo exitoso entre programadores y diseñadores](#red-light-green-light-the-dos-and-donts-of-a-successful-dev-design-workflow) in Guadalajara, MX 🇲🇽 ([Slides](https://speakerdeck.com/ferperales/red-light-green-light-the-dos-and-donts-of-a-successful-dev-design-workflow-luz-roja-luz-verde-que-hacer-y-que-no-hacer-para-un-flujo-de-trabajo-exitoso-entre-programadores-y-disenadores))
 

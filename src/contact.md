@@ -1,5 +1,6 @@
 ---
 title: Contact
+layout: default
 ---
 
 ## Contact
@@ -25,4 +26,3 @@ Doesn't matter if you want to talk about bussiness or just say hi, you can find 
 * 📚 Bookworm? So am I... sort of. We can be friends at [Goodreads](https://www.goodreads.com/ferperales) if you promise to not laugh at my Reading Challenge progress.
 
 📧 If none of the above fits your communication needs, you can always drop a line via [email](<mailto:hi@ferperales.net>).
-

@@ -5,19 +5,19 @@
     <meta charset="utf-8">
     <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
 
-    <!-- Use title if it's in the page YAML frontmatter -->
+    <!-- Use title if it's in the page front matter -->
     <title>
-<%= current_page.data.title || "Middleman" %>
+<%= data.title || "ferperales.net" %>
 </title>
 
-    <%= stylesheet_link_tag :normalize %>
-    <%= stylesheet_link_tag :site %>
-    <%= stylesheet_link_tag :genericons %>
+    <link rel="stylesheet" href="/stylesheets/normalize.css">
+    <link rel="stylesheet" href="<%= asset_path :css %>">
+    <link rel="stylesheet" href="/stylesheets/genericons.css">
   </head>
 
   <body>
     <header class='site-header'>
-      <%= image_tag '//secure.gravatar.com/avatar/6c137ee3013821b517c4b9beed0145df/?s=120&d=mm', alt: 'Profile Picture', class: 'header-image' %>
+      <img src='//secure.gravatar.com/avatar/6c137ee3013821b517c4b9beed0145df/?s=120&d=mm' alt='Profile Picture' class='header-image'>
       <h1>ferperales.net</h1>
       <navbar>
         <ul class='menu'>
@@ -78,13 +78,13 @@
                 Theme based on Wordpress theme Fastr by Kanish
         </div>
         <div class='release-info undecorated-link'>
-          Latest release: <%= `git log -1 --no-merges --format="<a target='_blank' href=\"https://github.com/FerPerales/ferperales.github.io/commit/%h\" />%h</a> - %B on %aD"` %>
+          Latest release: <%= `git log -1 --no-merges --format="<a target='_blank' href=\"https://github.com/FerPerales/ferperales.github.io/commit/%h\" />%h</a> - %B on %aD"`.html_safe %>
         </div>
       </div>
 
     </footer>
   </body>
-  <%= javascript_include_tag :all %>
+  <script src="<%= asset_path :js %>" defer></script>
 
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

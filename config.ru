@@ -1,13 +1,7 @@
-require 'middleman-core/load_paths'
-::Middleman.setup_load_paths
+# This file is used by Rack-based servers during the Bridgetown boot process.
 
-require 'middleman-core'
-require 'middleman-core/rack'
+require "bridgetown-core/rack/boot"
 
-require 'fileutils'
-FileUtils.mkdir('log') unless File.exist?('log')
-::Middleman::Logger.singleton("log/#{ENV['RACK_ENV']}.log")
+Bridgetown::Rack.boot
 
-app = ::Middleman::Application.new
-
-run ::Middleman::Rack.new(app).to_app
+run RodaApp.freeze.app # see server/roda_app.rb
