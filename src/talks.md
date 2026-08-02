@@ -27,8 +27,8 @@ If you want me to give one of these talks or workshops at your conference, compa
 
 #### 2026
 
-* [XO Ruby](https://www.xoruby.com/), The Ruby Guide to Responsible LLM Integrations in Vancouver, Canada 🇨🇦
-* [Rocky Mountain Ruby](https://rockymtnruby.dev/), Slowly We Rot: signs of a Rails app’s decay in Boulder, USA 🇺🇸
+* 🌎 [XO Ruby](https://www.xoruby.com/), The Ruby Guide to Responsible LLM Integrations in Vancouver, Canada 🇨🇦
+* 🌎 [Rocky Mountain Ruby](https://rockymtnruby.dev/), Slowly We Rot: signs of a Rails app’s decay in Boulder, USA 🇺🇸
 
 #### 2025
 
@@ -38,7 +38,7 @@ Break from the conference circuit
 
 * [posadev](https://posadev.mx), ¿Es realmente convertirte en manager tan malo como dicen? in Guadalajara, Mexico 🇲🇽
 * [Nerdearla México](https://nerdear.la/es/), Anonimización de bases de datos con PostgreSQL in Mexico City, Mexico 🇲🇽  ([Slides](https://speakerdeck.com/ferperales/anonimizacion-de-bases-de-datos-con-postgresql-nerdearla) \| [Video](https://youtu.be/XS8_BzlwVqw))
-* [EuRuKo 2024](https://2024.euruko.org/), Let's give REST a rest: exploring the state of gRPC in Ruby in Sarajevo, Bosnia and Herzegovina 🇧🇦 ([Slides](https://speakerdeck.com/ferperales/lets-give-rest-a-rest-exploring-the-state-of-grpc-in-ruby))
+* 🌍 [EuRuKo 2024](https://2024.euruko.org/), Let's give REST a rest: exploring the state of gRPC in Ruby in Sarajevo, Bosnia and Herzegovina 🇧🇦 ([Slides](https://speakerdeck.com/ferperales/lets-give-rest-a-rest-exploring-the-state-of-grpc-in-ruby))
 * [Playas on Tech - August edition](https://playasontech.com), ¿Es realmente convertirte en manager tan malo como dicen? in Manzanillo, Mexico 🇲🇽 ([Slides](https://speakerdeck.com/ferperales/es-convertirte-en-manager-tan-malo-como-todo-mundo-dice))
 * [Python Mexico - August edition](https://www.meetup.com/python-mexico), Guía práctica para convertirse en contribuidor de Open Source en 10 años (o más) in Mexico City, Mexico 🇲🇽 ([Slides](https://speakerdeck.com/ferperales/guia-practica-para-convertirse-en-contribuidor-de-open-source-en-10-anos-o-mas-b95568bf-aa5a-4a0d-8b7a-c427dae68e43))
 * [Web Dev Talks - May edition](https://www.webdevtalks.mx), ¿Es realmente convertirte en manager tan malo como dicen? in Colima, Mexico 🇲🇽 ([Slides](https://speakerdeck.com/ferperales/es-convertirte-en-manager-tan-malo-como-todo-mundo-dice))
@@ -58,7 +58,8 @@ Break from the conference circuit
 * [Ruby MX - October Edition](https://comunidadruby.mx), El pasado, presente y futuro de Ruby in Guadalajara, Mexico 🇲🇽
  ([Slides](https://speakerdeck.com/ferperales/el-pasado-presente-y-futuro-de-ruby) \| [Video](https://youtu.be/Xul2P15nSdQ?t=293))
 * [Playas on Tech](https://fb.com/playasontech), [The Senior Software Engineer](https://facebook.com/events/1223983738445818/) in Manzanillo, Mexico 🇲🇽 ([Slides](https://speakerdeck.com/ferperales/the-senior-software-engineer))
-* [Railsconf](https://railsconf.com), [Open the gate a little: strategies to protect and share data](https://railsconf.com/program/sessions#session-1305) in Portland, USA 🇺🇸 | ([Slides](https://speakerdeck.com/ferperales/open-the-gate-a-little-strategies-to-protect-and-share-data) \| [Video](https://www.youtube.com/watch?v=9no7cvBGtLk))
+* 🌎 [Railsconf](https://railsconf.com), [Open the gate a little: strategies to protect and share data](https://railsconf.com/program/sessions#session-1305) in Portland, 
+USA 🇺🇸 | ([Slides](https://speakerdeck.com/ferperales/open-the-gate-a-little-strategies-to-protect-and-share-data) \| [Video](https://www.youtube.com/watch?v=9no7cvBGtLk))
 
 #### 2021
 
@@ -66,7 +67,7 @@ Break from the conference circuit
 
 #### 2020
 
-* [DevOpsDay Bogotá 2020](https://devopsdays.org/events/2020-bogota/welcome/), [El bueno, el malo y el DevOps](#the-good-the-bad-and-the-devops) in Bogota, Colombia 🇨🇴 ([Slides]() \| [Video](https://www.youtube.com/watch?v=QDFdCGtXhQo))
+* 🌎 [DevOpsDay Bogotá 2020](https://devopsdays.org/events/2020-bogota/welcome/), [El bueno, el malo y el DevOps](#the-good-the-bad-and-the-devops) in Bogota, Colombia 🇨🇴 ([Slides]() \| [Video](https://www.youtube.com/watch?v=QDFdCGtXhQo))
 * [Mexico on Rails - March edition](https://www.meetup.com/Mexico-on-Rails/), [C.I. con Gitlab y Kubernetes](#ci-with-gitlab-and-kubernetes) in Mexico City, Mexico 🇲🇽 ([Slides](https://speakerdeck.com/ferperales/ci-with-gitlab-and-kubernetes))
 
 
@@ -101,7 +102,7 @@ Break from the conference circuit
 * [FSLVallarta 2016](http://fsl.mx), [Prácticas de desarrollo de software de alta calidad](#high-quality-software-practices) in Puerto Vallarta, MX 🇲🇽 ([Slides](https://speakerdeck.com/ferperales/high-quality-software-practices-1))
 * [FSLVallarta 2016](http://fsl.mx/), [Acercando a las nuevas generaciones al Software Libre](#introducing-new-generations-to-free-software) in  Puerto Vallarta, MX 🇲🇽 ([Slides](https://speakerdeck.com/ferperales/introducing-new-generations-to-free-software-1))
 * [Software Gurú NEXT](https://sg.com.mx/sgnext), [¿Qué hacer y que no hacer para un flujo de trabajo exitoso entre programadores y diseñadores](#red-light-green-light-the-dos-and-donts-of-a-successful-dev-design-workflow) in Mexico City, MX 🇲🇽 ([Slides](https://speakerdeck.com/ferperales/como-lograr-un-flujo-de-trabajo-exitoso-entre-programadores-y-disenadores))
-* [Fórum Internacional Software Livre](http://softwarelivre.org/fisl17), [Introducing new generations to Open Source](#introducing-new-generations-to-free-software) in Porto Alegre, BRA 🇧🇷 ([Slides](https://speakerdeck.com/ferperales/introducing-new-generations-to-open-source) \| [Video](https://www.youtube.com/watch?v=KaCPJ5k0j28))
+* 🌎 [Fórum Internacional Software Livre](http://softwarelivre.org/fisl17), [Introducing new generations to Open Source](#introducing-new-generations-to-free-software) in Porto Alegre, BRA 🇧🇷 ([Slides](https://speakerdeck.com/ferperales/introducing-new-generations-to-open-source) \| [Video](https://www.youtube.com/watch?v=KaCPJ5k0j28))
 * [Campus Party 7](http://mexico.campus-party.org), [Acercando a las nuevas generaciones al Software Libre](#introducing-new-generations-to-free-software) in Zapopan, MX 🇲🇽 ([Slides](https://speakerdeck.com/ferperales/introducing-new-generations-to-free-software) \| [Video](https://www.youtube.com/watch?v=Egxj9j4T1-U))
 * [DrupalCamp Guadalajara](http://www.drupalcampgdl.com/), [Luz roja, luz verde: qué hacer y qué no hacer para un flujo de trabajo exitoso entre programadores y diseñadores](#red-light-green-light-the-dos-and-donts-of-a-successful-dev-design-workflow) in Guadalajara, MX 🇲🇽 ([Slides](https://speakerdeck.com/ferperales/red-light-green-light-the-dos-and-donts-of-a-successful-dev-design-workflow-luz-roja-luz-verde-que-hacer-y-que-no-hacer-para-un-flujo-de-trabajo-exitoso-entre-programadores-y-disenadores))
 
