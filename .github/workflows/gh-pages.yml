@@ -23,7 +23,7 @@ jobs:
           bundler-cache: true
       - uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 26
       - run: npm install
       - run: npm run esbuild
       - run: bundle exec bridgetown build
