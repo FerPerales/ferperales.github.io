@@ -20,6 +20,7 @@ If you want me to give one of these talks or workshops at your conference, compa
 ### Upcoming talks
 
 ***Want me to give a talk or a workshop at your event? You can invite [me](/contact)!*** 😉
+* 🌎 [Rocky Mountain Ruby](https://rockymtnruby.dev/), Slowly We Rot: signs of a Rails app’s decay in Boulder, USA 🇺🇸
 
 ---
 
@@ -28,7 +29,6 @@ If you want me to give one of these talks or workshops at your conference, compa
 #### 2026
 
 * 🌎 [XO Ruby](https://www.xoruby.com/), The Ruby Guide to Responsible LLM Integrations in Vancouver, Canada 🇨🇦
-* 🌎 [Rocky Mountain Ruby](https://rockymtnruby.dev/), Slowly We Rot: signs of a Rails app’s decay in Boulder, USA 🇺🇸
 
 #### 2025
 
